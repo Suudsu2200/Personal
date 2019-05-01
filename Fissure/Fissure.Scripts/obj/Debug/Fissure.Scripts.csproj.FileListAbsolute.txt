@@ -1,0 +1,2 @@
+C:\Personal\Fissure\Fissure.Scripts\obj\Debug\Fissure.Scripts.csprojAssemblyReference.cache
+C:\Personal\Fissure\Fissure.Scripts\obj\Debug\Fissure.Scripts.csproj.CoreCompileInputs.cache
