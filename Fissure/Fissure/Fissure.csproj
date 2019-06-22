@@ -69,6 +69,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CardLoader.cs" />
     <Compile Include="TriggeredAbility.cs" />
     <Compile Include="AbilityConverter.cs" />
     <Compile Include="Components\Ability.cs" />
