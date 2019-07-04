@@ -7,11 +7,11 @@ using Fissure.Zone;
 
 namespace Fissure
 {
-    public class Player
+    /*public class Player
     {
         public int LifeTotal { get; set; }
         public Hand Hand { get; set; }
         public Field Field { get; set; }
         public Fissure.Zone.Void Void { get; set; }
-    }
+    }*/
 }
